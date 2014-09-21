@@ -1,6 +1,8 @@
 CS61AHog
 ========
 
+Project implemented for CS61A.
+
 Simulator and strategy to play the dice game Hog
 
 All code is in hog.py
